@@ -2,7 +2,8 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:SilikaHorlogo"
-             x:Class="SilikaHorlogo.MainPage">
+             x:Class="SilikaHorlogo.MainPage"
+             BackgroundColor="{DynamicResource PageBackgroundColor}">
 
     <StackLayout>
         <!-- Place new controls here -->
